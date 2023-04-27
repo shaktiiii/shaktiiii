@@ -1,10 +1,10 @@
 ![headbanner](https://github.com/shaktiiii/shaktiiii/blob/main/githubbanner.jpg)
 <h1 align="center">Hi 👋, I'm Shakti Dubey.</h1>
-<h3 align="center">A passionate blockchain developer from India</h3>
+<h3 align="center">A passionate Full Stack <ins>WEB3 DEVELOPER </ins>  from India</h3>
 
 <img align = "right" alt="nftcat" width = "200" src= "https://github.com/shaktiiii/shaktiiii/blob/main/catnft.gif" />
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m a **Solidity**
 
 - 💬 Ask me about **Blockchain & NFT's**
 
