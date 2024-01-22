@@ -4,7 +4,7 @@
 
 <img align = "right" alt="nftcat" width = "200" src= "https://github.com/shaktiiii/shaktiiii/blob/main/catnft.gif" />
 
-- 🌱 I’m a **Solidity**
+- 🌱 I’m learning **Solidity**
 
 - 💬 Ask me about **Blockchain & NFT's**
 
